@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil! 
 
 ## 👨 Sobre mim
-Olá, visitante! Me chamo Gabriel, sou um estudante de Engenharia de Software formado em Administração de Empresas pela PUCRS, apaixonado por tecnologia e suas oportunidades de mudar a vida das pessoas e empresas.  
+Olá, visitante! Me chamo Gabriel, brasileiro de 23 anos, estudante de Engenharia de Software e formado em Administração de Empresas pela PUCRS, apaixonado por tecnologia e suas oportunidades de mudar a vida das pessoas e empresas.  
 
 ## 💻 Experiência Profissional
 - **Trainee em Empresa de Transporte Público - 6 anos**
@@ -10,7 +10,7 @@ Olá, visitante! Me chamo Gabriel, sou um estudante de Engenharia de Software fo
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
 
 ## ⚡ Habilidades e Tecnologias
-- Linguagens de Programação: JavaScript, Python, Java
+- Linguagens de Programação: Java, Python, JavaScript
 
 ## 👨‍🎓 Formação Acadêmica
 - **Engenharia de Software** - Em andamento
