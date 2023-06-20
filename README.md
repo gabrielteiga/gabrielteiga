@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bem vindo ao meu perfil! 
 
-<!--
-**gabrielteiga/gabrielteiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨 Sobre mim
+Olá, visitante! Me chamo Gabriel, sou um estudante de Engenharia de Software formado em Administração de Empresas pela PUCRS, apaixonado por tecnologia e suas oportunidades de mudar a vida das pessoas e empresas.  
 
-Here are some ideas to get you started:
+## 💻 Experiência Profissional
+- **Trainee em Empresa de Transporte Público - 6 anos**
+  - Experiência em todos os setores da empresa: Manutenção, Operacional, RH, Administrativo e Assessoria da Diretoria.
+  - Acompanhamento de indicadores com analistas/supervisores/gestores/diretores, aprendendo a importância da visão sistêmica para o bom resultado dos setores.
+  - TI: Suporte ao usuário e manutenção de hardwares e softwares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Habilidades e Tecnologias
+- Linguagens de Programação: JavaScript, Python, Java
+
+## 👨‍🎓 Formação Acadêmica
+- **Engenharia de Software** - Em andamento
+  - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+
+- **Administração de Empresas** - Concluído em 2022
+  - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+
+## 📬 Contato
+- E-mail: gabrielteiga99@gmail.com
+- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/gabriel-teiga/)
