@@ -1,4 +1,9 @@
-# Bem vindo ao meu perfil! 
+# Oii! Bem vindo ao meu perfil! 👋 
+
+<div>
+<a href="https://github.com/gabrielteiga">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielteiga&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 👨 Sobre mim
 Olá, visitante! Me chamo Gabriel, brasileiro de 23 anos, estudante de Engenharia de Software e formado em Administração de Empresas pela PUCRS, apaixonado por tecnologia e suas oportunidades de mudar a vida das pessoas e empresas.  
