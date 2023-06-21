@@ -10,7 +10,9 @@ Olá, visitante! Me chamo Gabriel, brasileiro de 23 anos, estudante de Engenhari
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
 
 ## ⚡ Habilidades e Tecnologias
-- Linguagens de Programação: Java, Python, JavaScript
+- *Linguagens de Programação:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+- *Banco de Dados:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
+- *Controle de Versão:*<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>    
 
 ## 👨‍🎓 Formação Acadêmica
 - **Engenharia de Software** - Em andamento
@@ -19,6 +21,15 @@ Olá, visitante! Me chamo Gabriel, brasileiro de 23 anos, estudante de Engenhari
 - **Administração de Empresas** - Concluído em 2022
   - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 
-## 📬 Contato
-- E-mail: gabrielteiga99@gmail.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/gabriel-teiga/)
+## 📬 Contatos
+<div>
+  <a href="https://instagram.com/gabrielteiga" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:gabrielteiga99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-teiga" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+</div>
