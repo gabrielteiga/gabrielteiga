@@ -6,7 +6,7 @@
 </div>
 
 ## 👨 Sobre mim
-Olá, visitante! Me chamo Gabriel, brasileiro de 23 anos, estudante de Engenharia de Software e formado em Administração de Empresas pela PUCRS, apaixonado por tecnologia e suas oportunidades de mudar a vida das pessoas e empresas.  
+Olá, visitante! Me chamo Gabriel, brasileiro de 24 anos, estudante de Engenharia de Software e formado em Administração de Empresas pela PUCRS, apaixonado por tecnologia e suas oportunidades de mudar a vida das pessoas e empresas.  
 
 ## 💻 Experiência Profissional
 - **Trainee em Empresa de Transporte Público - 6 anos**
