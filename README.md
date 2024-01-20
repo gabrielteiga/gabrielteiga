@@ -15,9 +15,10 @@ Olá, visitante! Me chamo Gabriel, brasileiro de 24 anos, estudante de Engenhari
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
 
 ## ⚡ Habilidades e Tecnologias
-- *Linguagens de Programação:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
-- *Banco de Dados:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
-- *Controle de Versão:*<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>    
+- *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=java,go,py,js)](https://skillicons.dev)
+- *DevOps:*  [![My Skills](https://skillicons.dev/icons?i=bash,powershell,docker)](https://skillicons.dev)
+- *Banco de Dados:*  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+- *Controle de Versão:*  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## 👨‍🎓 Formação Acadêmica
 - **Engenharia de Software** - Em andamento
