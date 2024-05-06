@@ -15,7 +15,7 @@ Olá, visitante! Me chamo Gabriel, brasileiro de 24 anos, estudante de Engenhari
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
 
 ## ⚡ Habilidades e Tecnologias
-- *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=java,go,py,js)](https://skillicons.dev)
+- *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=java,go,py,ts,php)](https://skillicons.dev)
 - *DevOps:*  [![My Skills](https://skillicons.dev/icons?i=bash,powershell,docker)](https://skillicons.dev)
 - *Banco de Dados:*  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - *Controle de Versão:*  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
