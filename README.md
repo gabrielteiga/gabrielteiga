@@ -20,8 +20,8 @@ Olá, visitante! Me chamo Gabriel, brasileiro de 24 anos, estudante de Engenhari
   - Desenvolvimento de melhorias e pequenas features.
 
 ## ⚡ Habilidades e Tecnologias
-- *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=java,go,py,ts,php)](https://skillicons.dev)
-- *DevOps:*  [![My Skills](https://skillicons.dev/icons?i=bash,powershell,docker)](https://skillicons.dev)
+- *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=go,php,java,py,ts)](https://skillicons.dev)
+- *DevOps:*  [![My Skills](https://skillicons.dev/icons?i=docker,bash,powershell)](https://skillicons.dev)
 - *Banco de Dados:*  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 - *Controle de Versão:*  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
