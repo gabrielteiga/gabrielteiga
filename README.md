@@ -13,6 +13,11 @@ Olá, visitante! Me chamo Gabriel, brasileiro de 24 anos, estudante de Engenhari
   - Experiência em todos os setores da empresa: Manutenção, Operacional, RH, Administrativo e Assessoria da Diretoria.
   - Acompanhamento de indicadores com analistas/supervisores/gestores/diretores, aprendendo a importância da visão sistêmica para o bom resultado dos setores.
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
+    
+- **Desenvolvedor Backend Júnior - Atual**
+  - Manutenção nas funcionalidades já implementadas;
+  - Análise critica de problemas;
+  - Desenvolvimento de melhorias e pequenas features.
 
 ## ⚡ Habilidades e Tecnologias
 - *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=java,go,py,ts,php)](https://skillicons.dev)
