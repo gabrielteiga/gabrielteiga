@@ -14,7 +14,7 @@ Olá, visitante! Me chamo Gabriel, brasileiro de 24 anos, estudante de Engenhari
   - Acompanhamento de indicadores com analistas/supervisores/gestores/diretores, aprendendo a importância da visão sistêmica para o bom resultado dos setores.
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
     
-- **Desenvolvedor Backend Júnior - Atual**
+- **Programador Backend Júnior - Atual**
   - Manutenção nas funcionalidades já implementadas;
   - Análise critica de problemas;
   - Desenvolvimento de melhorias e pequenas features.
