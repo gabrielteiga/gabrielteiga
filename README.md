@@ -14,10 +14,19 @@ Olá, visitante! Me chamo Gabriel, brasileiro, formado em Administração de Emp
   - Acompanhamento de indicadores com analistas/supervisores/gestores/diretores, aprendendo a importância da visão sistêmica para o bom resultado dos setores.
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
     
-- **Programador Backend Júnior - Atual**
+- **Programador Backend Júnior - 1 ano**
+  - Desenvolvimento web MVC e backend, E-commerce;
   - Manutenção nas funcionalidades já implementadas;
-  - Análise critica de problemas;
-  - Desenvolvimento de melhorias e pequenas features.
+  - Desenvolvimento de melhorias e pequenas features;
+  - Revisão de código de outros programadores;
+  - Recepção de outros programadores ao time de backend;
+  - Versionamento de projetos.
+
+- **Software Engineer - Atual**
+  - Desenvolvimento de aplicação desktop Windows, soluções para o mercado financeiro;
+  - Criação de novas funcionalidades no sistema;
+  - Correção de bugs;
+  - Manutenção nas funcionalidades já implementadas.
 
 ## ⚡ Habilidades e Tecnologias
 - *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=go,php,java,py,ts)](https://skillicons.dev)
