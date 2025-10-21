@@ -3,7 +3,7 @@ Me chamo Gabriel, brasileiro, formado em Administração de Empresas e graduando
 
 <div>
 <a href="https://github.com/gabrielteiga">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielteiga&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielteiga&langs_count=3&theme=dracula"/>
 </div>
 
 ## 💻 Experiência Profissional
