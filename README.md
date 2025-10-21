@@ -8,10 +8,10 @@ Me chamo Gabriel, brasileiro, formado em Administração de Empresas e graduando
 
 ## 💻 Experiência Profissional
 - **Software Engineer - Atual**
-  - Desenvolvimento de aplicação desktop Windows, soluções para o mercado financeiro;
-  - Criação de novas funcionalidades no sistema;
-  - Correção de bugs;
-  - Manutenção nas funcionalidades já implementadas.
+  - Desenvolvimento de aplicação desktop Windows;
+  - Criação de soluções robustas e performáticas para o mercado financeiro brasileiro e internacional;
+  - Correções de bugs em produção;
+  - Melhorias nas funcionalidades já implementadas.
     
 - **Programador Backend Júnior - 1 ano**
   - Desenvolvimento web MVC e backend, E-commerce;
