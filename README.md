@@ -7,13 +7,13 @@ Me chamo Gabriel, brasileiro, formado em Administração de Empresas e graduando
 </div>
 
 ## 💻 Experiência Profissional
-- **Software Engineer - Atual**
+- **Software Engineer - Atual (Nelogica)**
   - Desenvolvimento de aplicação desktop Windows;
   - Criação de soluções robustas e performáticas para o mercado financeiro brasileiro e internacional;
   - Correções de bugs em produção;
   - Melhorias nas funcionalidades já implementadas.
     
-- **Programador Backend Júnior - 1 ano**
+- **Programador Backend Júnior - 1 ano (Uappi)**
   - Desenvolvimento web MVC e backend, E-commerce;
   - Manutenção nas funcionalidades já implementadas;
   - Desenvolvimento de melhorias e pequenas features;
@@ -21,7 +21,7 @@ Me chamo Gabriel, brasileiro, formado em Administração de Empresas e graduando
   - Recepção de outros programadores ao time de backend;
   - Versionamento de projetos.
  
-- **Trainee em Empresa de Transporte Público - 6 anos**
+- **Trainee - 6 anos (SOGIL)**
   - Experiência em todos os setores da empresa: Manutenção, Operacional, RH, Administrativo e Assessoria da Diretoria.
   - Acompanhamento de indicadores com analistas/supervisores/gestores/diretores, aprendendo a importância da visão sistêmica para o bom resultado dos setores.
   - TI: Suporte ao usuário e manutenção de hardwares e softwares.
