@@ -11,6 +11,7 @@ Me chamo Gabriel, brasileiro, formado em Administração de Empresas e graduando
   - Desenvolvimento de aplicação desktop Windows;
   - Criação de soluções robustas e performáticas para o mercado financeiro brasileiro e internacional;
   - Correções de bugs em produção;
+  - Revisão de código de outros programadores;
   - Melhorias nas funcionalidades já implementadas.
     
 - **Programador Backend Júnior - UAPPI - 1 ano**
