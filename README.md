@@ -8,19 +8,22 @@ Me chamo Gabriel, brasileiro, formado em Administração de Empresas e graduando
 
 ## 💻 Experiência Profissional
 - **Software Engineer - NELOGICA - Atual**
-  - Desenvolvimento de aplicação desktop Windows;
-  - Criação de soluções robustas e performáticas para o mercado financeiro brasileiro e internacional;
-  - Correções de bugs em produção;
-  - Revisão de código de outros programadores;
-  - Melhorias nas funcionalidades já implementadas.
+  - Desenvolvimento e evolução de funcionalidades no core da plataforma Profit;
+  - Implementação de novas features e melhorias em aplicações desktop;
+  - Desenvolvimento de componentes e interfaces gráficas customizadas para a plataforma;
+  - Implementação de regras de negócio relacionadas ao mercado financeiro e operações de trading;
+  - Análise, investigação e correção de bugs em partes críticas do sistema;
+  - Manutenção e refatoração de código visando melhoria de qualidade, estabilidade e performance;
+  - Análise de impacto e integração de novas funcionalidades na arquitetura existente do sistema;
+  - Revisão de código de outros desenvolvedores.
     
 - **Programador Backend Júnior - UAPPI - 1 ano**
-  - Desenvolvimento web MVC e backend, E-commerce;
   - Manutenção nas funcionalidades já implementadas;
+  - Análise critica de problemas;
   - Desenvolvimento de melhorias e pequenas features;
-  - Revisão de código de outros programadores;
-  - Recepção de outros programadores ao time de backend;
-  - Versionamento de projetos.
+  - Versionamento de clientes;
+  - Ajudar na integração de novos integrantes no time;
+  - Participar ativamente na resolução de problemas críticos.
  
 - **Trainee - SOGIL - 6 anos**
   - Experiência em todos os setores da empresa: Manutenção, Operacional, RH, Administrativo e Assessoria da Diretoria.
@@ -29,7 +32,7 @@ Me chamo Gabriel, brasileiro, formado em Administração de Empresas e graduando
 
 
 ## ⚡ Habilidades e Tecnologias
-- *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=go,php,java,py,ts)](https://skillicons.dev)
+- *Linguagens de Programação:*  [![My Skills](https://skillicons.dev/icons?i=go,php,java,ts,py)](https://skillicons.dev)
 - *DevOps:*  [![My Skills](https://skillicons.dev/icons?i=docker,bash,powershell)](https://skillicons.dev)
 - *Banco de Dados:*  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 - *Controle de Versão:*  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
